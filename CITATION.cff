@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this code or refer to the paper, please cite as follows."
+title: "Does ESG Performance Pay Differently for FinTech Firms? Replication package"
+authors:
+  - family-names: "Sedghiani"
+    given-names: "Nawres"
+    affiliation: "Graduate School, Bahçeşehir University"
+    orcid: "https://orcid.org/0009-0000-4652-4756"
+    email: "nawres.sedghiani@bahcesehir.edu.tr"
+  - family-names: "Doğan"
+    given-names: "Burak"
+    affiliation: "Department of Economics, Faculty of Economics, Administrative and Social Sciences, Bahçeşehir University"
+    orcid: "https://orcid.org/0000-0002-9585-3318"
+    email: "burak.dogan@bau.edu.tr"
+contact:
+  - family-names: "Sedghiani"
+    given-names: "Nawres"
+    email: "nawres.sedghiani@bahcesehir.edu.tr"
+date-released: 2026-11-02
+version: "2.0.0"
+license: MIT
+repository-code: "https://github.com/burakdoganphd/esg-fintech-replication"
+keywords:
+  - ESG
+  - FinTech
+  - financial performance
+  - panel data
+  - signaling
+preferred-citation:
+  type: article
+  title: "Does ESG Performance Pay Differently for FinTech Firms? Evidence from U.S. FinTech and Non-FinTech Companies, 2021-2025"
+  authors:
+    - family-names: "Sedghiani"
+      given-names: "Nawres"
+      orcid: "https://orcid.org/0009-0000-4652-4756"
+    - family-names: "Doğan"
+      given-names: "Burak"
+      orcid: "https://orcid.org/0000-0002-9585-3318"
+  year: 2026
+  status: "under review"
