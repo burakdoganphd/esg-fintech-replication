@@ -1,5 +1,7 @@
 # Does ESG Performance Pay Differently for FinTech Firms?
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23885467.svg)](https://doi.org/10.5281/zenodo.23885467)
+
 Replication package for the paper
 
 > Sedghiani N, Doğan B (2026). *Does ESG Performance Pay Differently for FinTech Firms? Evidence from U.S. FinTech and Non-FinTech Companies, 2021--2025.* Bahçeşehir University. Under review.
@@ -67,7 +69,7 @@ for the definitions.
 
 ## Citation
 
-See `CITATION.cff`.
+See `CITATION.cff`. The repository is archived on Zenodo: https://doi.org/10.5281/zenodo.23885467
 
 ## License
 
@@ -75,6 +77,6 @@ Code: MIT (see `LICENSE`). Documentation: CC BY 4.0. Data: subject to the Bloomb
 
 ## Contact
 
-Nawres Sedghiani (corresponding author), Graduate School, Bahçeşehir University, nawres.sedghiani@bahcesehir.edu.tr
+Burak Doğan (corresponding author), Department of Economics, Bahçeşehir University, burak.dogan@bahcesehir.edu.tr
 
-Burak Doğan, Department of Economics, Bahçeşehir University, burak.dogan@bau.edu.tr
+Nawres Sedghiani, Graduate School, Bahçeşehir University, nawres.sedghiani@bahcesehir.edu.tr
